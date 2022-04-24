@@ -10,7 +10,7 @@
 ### Ferramentas usadas:
 >* SQL power architect
 > ![architect_logo_200](https://user-images.githubusercontent.com/103005263/164912854-5e659333-8c6f-4123-bdb7-a2d51d738514.png)
-> ferramenta capaz de criar uma representação grafica de uma base de dados relacional alem de auxiliar criando scripts para criação de tabelas e restrições.
+>* ferramenta capaz de criar uma representação grafica de uma base de dados relacional alem de auxiliar criando scripts para criação de tabelas e restrições.
 >* Dbeaver
 >   ![dbeaver](https://user-images.githubusercontent.com/103067766/165000488-a5309fce-66d4-4925-94b7-389c703e3f57.jpeg)
->   ferramenta de manipulação de bancos de dados capaz de trabalha com varios tipos como o MySQL e o PostgreSQL.
+>* ferramenta de manipulação de bancos de dados capaz de trabalha com varios tipos como o MySQL e o PostgreSQL.
