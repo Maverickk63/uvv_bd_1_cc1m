@@ -122,7 +122,7 @@ ON DELETE NO ACTION
 ON UPDATE NO ACTION;
 
 -- sequencia de inserts a seguir;
---insert dos funcionarios;
+--insert dos funcionarios (valor de jorge alterado para respeitar o not null);
 insert into funcionario(primeiro_nome, nome_meio, ultimo_nome, cpf, data_nascimento, endereco, sexo, salario, cpf_supervisor, numero_departamento ) 
 values('Jorge','E','Brito','88866555576','1937-11-10','Rua do Horto, 35, São Paulo, SP','M','55000','88866555576',1),
 ('Jennifer','S','Souza','98765432168','1941-06-20','Av.Arthur de Lima, 54, Santo André, SP','F','43000','88866555576',4),
