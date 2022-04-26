@@ -2,6 +2,7 @@
 ## Atividade PSET1
 ### Informações:
 >* Atividade requisitada no curso de Ciencias da Computação da UVV pelo professor Abrantes Araújo Silva Filho
+>* Aluno: Yuri Salim Guimarães
 ### Guia:
 >* MySqlScript.sql
 >* Script único para o MySQL/MariaDB que cria um usuário de nome "yuri" com senha "12345" um banco de dados nomeado uvv e dentro desse banco de dados com o usuário yuri cria todas as tabelas , restrições e insere todos os dados para recriar o banco de dados de exemplo.
